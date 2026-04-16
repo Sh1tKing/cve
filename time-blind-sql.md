@@ -105,13 +105,13 @@ sqlmap -u "http://[target]/Hospital/viewappointment.php?delid=1" --dbs
 
 **sqlmap Output Confirmation:**
 
-![image-20260417014643339](images\image-20260417014643339.png)
+![image-20260417014643339](images/image-20260417014643339.png)
 
 
 
-![image-20260417014714863](images\image-20260417014714863.png)
+![image-20260417014714863](images/image-20260417014714863.png)
 
-![image-20260417015419683](images\image-20260417015419683.png)
+![image-20260417015419683](images/image-20260417015419683.png)
 
 ## Impact
 
